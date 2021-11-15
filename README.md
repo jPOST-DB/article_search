@@ -1,4 +1,4 @@
-# find_pmid
+# article_search
 `jPOST id` から `PubMed id` を探索するための `Ruby` 製の補助ツールです。
 # gem
 下記のgemが必要です。
