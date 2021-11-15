@@ -1,0 +1,850 @@
+**jpost********************
+JPST000036
+title:Cysteine-targeted proteomics analysis
+  pi:<PrincipalInvestigator/>[AU] sm:Kazutaka Araki[AU]
+keywords:["HEK293T", "iodoTMT6plex", "DTT", "H2O2"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000036
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28048978", "27806916", "27350002"]
+["HEK293T", "iodoTMT6plex", "DTT", "H2O2"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27350002
+["sm", "DTT", "H2O2"]
+
+**jpost********************
+JPST000068
+title:monolith HILIC-HeLa
+  pi:Yasushi Ishihama[AU] sm:Yuta Sakamoto[AU]
+keywords:["monolithic silica column", "HILIC"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000068
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "28533600", "28391269"]
+["monolithic silica column", "HILIC"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27332127
+["pi", "HILIC"]
+
+**jpost********************
+JPST000075
+title:Optimization of Phosphotyrosine Proteomics
+PXD005061  pi:Takeshi Tomonaga[AU] sm:Yuichi Abe[AU]
+keywords:["phosphotyrosine", "Immunoprecipitation", "kinome"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000075+OR+PXD005061
+
+https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00576
+
+**PubMed**
+2016-08-01 - 2017-10-01
+["28916723", "28874695", "28717217", "28666867", "28260742", "28211531", "28152594", "28103595", "27998981", "27883218", "27833131", "27761105", "27681590", "28747606", "28292831", "28272479", "28115534", "27942126", "27899449"]
+["phosphotyrosine", "Immunoprecipitation", "kinome"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/28152594
+["pi+sm", "phosphotyrosine", "Immunoprecipitation"]
+http://www.ncbi.nlm.nih.gov/pubmed/28874695
+["pi+sm", "phosphotyrosine"]
+http://www.ncbi.nlm.nih.gov/pubmed/28916723
+["pi", "Immunoprecipitation"]
+
+**jpost********************
+JPST000077
+title:monolith RP-HeLa
+  pi:Yasushi Ishihama[AU] sm:Yuta Sakamoto[AU]
+keywords:monolith RP
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000077
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "28533600", "28391269"]
+monolith RP
+
+
+**jpost********************
+JPST000078
+title:E. coli N-terminomics
+  pi:Yasushi Ishihama[AU] sm:Mariko Ito[AU]
+keywords:["E. coli", "N-terminal peptides", "N-terminomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000078
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "30695509"]
+["E. coli", "N-terminal peptides", "N-terminomics"]
+
+
+**jpost********************
+JPST000079
+title:Evalutation of phospho-iTRAQ system
+PXD000910  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
+keywords:["Mouse", "iTRAQ", "Phosphoproteome"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000079+OR+PXD000910
+
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/gtc.12406
+https://onlinelibrary.wiley.com/doi/abs/10.1111/gtc.12406
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28390868", "28267743", "28203736", "28024296", "27899654", "27856536", "27677939", "27600695", "27572825", "27227462", "27157913"]
+["Mouse", "iTRAQ", "Phosphoproteome"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/28024296
+["pi", "Mouse"]
+
+**jpost********************
+JPST000081
+title:Human iPS cell_201B7-P32
+PXD004615  pi:Yasushi Ishihama[AU] sm:Michio Funahashi[AU]
+keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000081+OR+PXD004615
+
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_article/-char/ja/
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+
+**jpost********************
+JPST000082
+title:Human iPS cell_32R1-P32
+PXD004616  pi:Yasushi Ishihama[AU] sm:Michio Funahashi[AU]
+keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000082+OR+PXD004616
+
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_article/-char/ja/
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+
+**jpost********************
+JPST000083
+title:Human iPS cell_ 414C2-P43
+PXD004617  pi:Yasushi Ishihama[AU] sm:Michio Funahashi[AU]
+keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000083+OR+PXD004617
+
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_article/-char/ja/
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+
+**jpost********************
+JPST000084
+title:Phosphoproteome Analysis of Formalin-Fixed and Paraffin-Embedded Tissue Sections Mounted on Microscope Slides
+PXD004604  pi:Yasushi Ishihama[AU] sm:Hironori Achiwa[AU]
+keywords:["FFPE slide", "formalin-fixed and paraffin-embedded", "phase-transfer surfactant", "phosphoproteome analysis", "post-translational modifications", "protein extraction", "shotgun analysis"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000084+OR+PXD004604
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["FFPE slide", "formalin-fixed and paraffin-embedded", "phase-transfer surfactant", "phosphoproteome analysis", "post-translational modifications", "protein extraction", "shotgun analysis"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27940637
+["pi", "post-translational modifications"]
+http://www.ncbi.nlm.nih.gov/pubmed/27504668
+["pi", "post-translational modifications"]
+
+**jpost********************
+JPST000085
+title:Human iPS cell_585A1-P55
+PXD004618  pi:Yasushi Ishihama[AU] sm:Michio Funahashi[AU]
+keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000085+OR+PXD004618
+
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_article/-char/ja/
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+
+**jpost********************
+JPST000086
+title:Human iPS cell_606A1-P46
+PXD004619  pi:Yasushi Ishihama[AU] sm:Michio Funahashi[AU]
+keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000086+OR+PXD004619
+
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_article/-char/ja/
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+
+**jpost********************
+JPST000087
+title:Human Fibroblast  cell_aHDF1388-P9
+PXD004620  pi:Yasushi Ishihama[AU] sm:Michio Funahashi[AU]
+keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000087+OR+PXD004620
+
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_article/-char/ja/
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+
+**jpost********************
+JPST000088
+title:Human Fibroblast  cell_aHDF1419-P10
+PXD004621  pi:Yasushi Ishihama[AU] sm:Michio Funahashi[AU]
+keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000088+OR+PXD004621
+
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_article/-char/ja/
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+
+**jpost********************
+JPST000089
+title:Human Fibroblast  cell_Tig120slc-P8
+PXD004622  pi:Yasushi Ishihama[AU] sm:Michio Funahashi[AU]
+keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000089+OR+PXD004622
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["shotgun proteomics", "monolithic silica column", "iPS cell", "one-shot proteomics"]
+
+
+**jpost********************
+JPST000090
+title:Extended Coverage of Singly and Multiply Phosphorylated Peptides from a Single Titanium Dioxide Microcolumn
+  pi:Yasushi Ishihama[AU] sm:Hironori Achiwa[AU]
+keywords:["phosphoproteomics", "HAMMOC", "TiO2", "HILIC"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000090
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
+["phosphoproteomics", "HAMMOC", "TiO2", "HILIC"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27332127
+["pi", "HILIC"]
+
+**jpost********************
+JPST000091
+title:White adipocyte phosphoproteomics
+  pi:Shingo Kajimura[AU] sm:Natsumi Ishikawa[AU]
+keywords:["white adipocyte", "phosphoproteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000091
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28533219", "28481699", "28380374", "28246203", "28191637", "28051117", "27912085", "27758866", "27568548", "27251423", "27238638", "28031714"]
+["white adipocyte", "phosphoproteomics"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27251423
+["pi", "white adipocyte"]
+http://www.ncbi.nlm.nih.gov/pubmed/27758866
+["pi", "white adipocyte"]
+http://www.ncbi.nlm.nih.gov/pubmed/28191637
+["pi", "white adipocyte"]
+http://www.ncbi.nlm.nih.gov/pubmed/27568548
+["pi", "white adipocyte"]
+
+**jpost********************
+JPST000092
+title:Large-scale determination of absolute phosphorylation stoichiometries in human cells by motif-targeting quantitative proteomics
+  pi:Yu-Ju Chen[AU] sm:Natsumi Ishikawa[AU]
+keywords:["phosphorylation", "stoichiometry", "motif-targeting"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000092
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28664172", "28600435", "28554772", "28526873", "28493537", "28445994", "28435121", "28418743", "28323416", "28290473", "28077733", "31725857", "27934968", "27841355", "27748121", "27728874", "27722232", "27567915", "27555448", "27452458", "27246681", "28031714"]
+["phosphorylation", "stoichiometry", "motif-targeting"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/28290473
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27748121
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27841355
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27555448
+["pi", "phosphorylation"]
+
+**jpost********************
+JPST000094
+title:EF1A1 interactome analysis by AP-MS
+  pi:Norie Araki[AU] sm:Daiki Kobayashi[AU]
+keywords:["EF1A1", "EF1A2", "interactomics", "TCTP"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000094
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["27899654", "28369119"]
+["EF1A1", "EF1A2", "interactomics", "TCTP"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27899654
+["pi+sm"]
+
+**jpost********************
+JPST000095
+title:EF1A2 interactome analysis by AP-MS
+  pi:Norie Araki[AU] sm:Daiki Kobayashi[AU]
+keywords:["EF1A1", "EF1A2", "interactomics", "TCTP"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000095
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["27899654", "28369119"]
+["EF1A1", "EF1A2", "interactomics", "TCTP"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27899654
+["pi+sm"]
+
+**jpost********************
+JPST000096
+title:Beige adipocyte phosphoproteomics
+  pi:Shingo Kajimura[AU] sm:Natsumi Ishikawa[AU]
+keywords:["Beige adipocyte", "phosphoproteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000096
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28533219", "28481699", "28380374", "28246203", "28191637", "28051117", "27912085", "27758866", "27568548", "27251423", "27238638", "28031714"]
+["Beige adipocyte", "phosphoproteomics"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27251423
+["pi", "Beige adipocyte"]
+http://www.ncbi.nlm.nih.gov/pubmed/27758866
+["pi", "Beige adipocyte"]
+http://www.ncbi.nlm.nih.gov/pubmed/28380374
+["pi", "Beige adipocyte"]
+http://www.ncbi.nlm.nih.gov/pubmed/28246203
+["pi", "Beige adipocyte"]
+http://www.ncbi.nlm.nih.gov/pubmed/27568548
+["pi", "Beige adipocyte"]
+
+**jpost********************
+JPST000097
+title:Brown adipocyte phosphoproteomics
+  pi:Shingo Kajimura[AU] sm:Natsumi Ishikawa[AU]
+keywords:["Brown adipocyte", "phosphoproteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000097
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28533219", "28481699", "28380374", "28246203", "28191637", "28051117", "27912085", "27758866", "27568548", "27251423", "27238638", "28031714"]
+["Brown adipocyte", "phosphoproteomics"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/28191637
+["pi", "Brown adipocyte"]
+
+**jpost********************
+JPST000099
+title:E. coli phosphoproteomics
+  pi:Yasushi Ishihama[AU] sm:Natsumi Ishikawa[AU]
+keywords:["bacteria", "E.coli", "phosphorylation"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000099
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "28031714"]
+["bacteria", "E.coli", "phosphorylation"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27701473
+["pi", "bacteria", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/28287266
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27504668
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27528401
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27301379
+["pi", "phosphorylation"]
+
+**jpost********************
+JPST000100
+title:B. subtilis phosphoproteomics
+  pi:Yasushi Ishihama[AU] sm:Natsumi Ishikawa[AU]
+keywords:["bacteria", "E.coli", "phosphorylation"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000100
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "28031714"]
+["bacteria", "E.coli", "phosphorylation"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27701473
+["pi", "bacteria", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/28287266
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27504668
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27528401
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27301379
+["pi", "phosphorylation"]
+
+**jpost********************
+JPST000101
+title:K. pneumoniae phosphoproteomics
+  pi:Yasushi Ishihama[AU] sm:Natsumi Ishikawa[AU]
+keywords:["bacteria", "E.coli", "phosphorylation"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000101
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "28031714"]
+["bacteria", "E.coli", "phosphorylation"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27701473
+["pi", "bacteria", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/28287266
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27504668
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27528401
+["pi", "phosphorylation"]
+http://www.ncbi.nlm.nih.gov/pubmed/27301379
+["pi", "phosphorylation"]
+
+**jpost********************
+JPST000111
+title:phosphoproteome in mitotic chromosomes
+  pi:Shinya Ohta[AU] sm:Saki Nambu[AU]
+keywords:["phosphoproteome", "mitosis"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000111
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28057767", "27504668", "27494278", "27231315"]
+["phosphoproteome", "mitosis"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27504668
+["pi", "phosphoproteome", "mitosis"]
+http://www.ncbi.nlm.nih.gov/pubmed/27231315
+["pi", "mitosis"]
+
+**jpost********************
+JPST000115
+title:Identification of ubiquitylation sites by K0-Ub
+  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
+keywords:Lysine-less ubiquitin
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000115
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28390868", "28267743", "28203736", "28024296", "27899654", "27856536", "27677939", "27600695", "27572825", "27227462", "27157913"]
+Lysine-less ubiquitin
+
+
+**jpost********************
+JPST000117
+title:Hela-S3 ATPome
+  pi:Takeshi Tomonaga[AU] sm:Jun Adachi[AU]
+keywords:ATPome
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000117
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28260742", "28211531", "28152594", "28103595", "27998981", "27883218", "27833131", "27761105", "27681590", "27436111", "27241769", "27222304", "27989673"]
+ATPome
+
+http://www.ncbi.nlm.nih.gov/pubmed/28152594
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27833131
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27681590
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27436111
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27241769
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27222304
+["pi+sm"]
+
+**jpost********************
+JPST000121
+title:ATPome-wide selectivity profiling of staurosporine
+  pi:Takeshi Tomonaga[AU] sm:Jun Adachi[AU]
+keywords:ATPome-wide selectivity profiling
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000121
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28260742", "28211531", "28152594", "28103595", "27998981", "27883218", "27833131", "27761105", "27681590", "27436111", "27241769", "27222304", "27989673"]
+ATPome-wide selectivity profiling
+
+http://www.ncbi.nlm.nih.gov/pubmed/28152594
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27833131
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27681590
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27436111
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27241769
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27222304
+["pi+sm"]
+
+**jpost********************
+JPST000123
+title:ATPome-wide selectivity profiling of (s)-crizotinib
+  pi:Takeshi Tomonaga[AU] sm:Jun Adachi[AU]
+keywords:ATPome-wide selectivity profiling
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000123
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28260742", "28211531", "28152594", "28103595", "27998981", "27883218", "27833131", "27761105", "27681590", "27436111", "27241769", "27222304", "27989673"]
+ATPome-wide selectivity profiling
+
+http://www.ncbi.nlm.nih.gov/pubmed/28152594
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27833131
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27681590
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27436111
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27241769
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27222304
+["pi+sm"]
+
+**jpost********************
+JPST000126
+title:Stagetip fractionation for total proteome
+  pi:Takeshi Tomonaga[AU] sm:Jun Adachi[AU]
+keywords:Stagetip fractionation
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000126
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28260742", "28211531", "28152594", "28103595", "27998981", "27883218", "27833131", "27761105", "27681590", "27436111", "27241769", "27222304", "27989673"]
+Stagetip fractionation
+
+http://www.ncbi.nlm.nih.gov/pubmed/28152594
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27833131
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27681590
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27436111
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27241769
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27222304
+["pi+sm"]
+
+**jpost********************
+JPST000129
+title:Stagetip fractionation for Phosphoproteome 
+  pi:Takeshi Tomonaga[AU] sm:Jun Adachi[AU]
+keywords:Stagetip fractionation
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000129
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28260742", "28211531", "28152594", "28103595", "27998981", "27883218", "27833131", "27761105", "27681590", "27436111", "27241769", "27222304", "27989673"]
+Stagetip fractionation
+
+http://www.ncbi.nlm.nih.gov/pubmed/28152594
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27833131
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27681590
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27436111
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27241769
+["pi+sm"]
+http://www.ncbi.nlm.nih.gov/pubmed/27222304
+["pi+sm"]
+
+**jpost********************
+JPST000134
+title:Physcomitrella patens, wild type
+  pi:Taishi Umezawa[AU] sm:Mariko Ito[AU]
+keywords:["Physcomitrella patens", "phosphoproteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000134
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["30695509"]
+["Physcomitrella patens", "phosphoproteomics"]
+
+
+**jpost********************
+JPST000135
+title:Physcomitrella patens, ppabi1a/b 
+  pi:Taishi Umezawa[AU] sm:Mariko Ito[AU]
+keywords:["Physcomitrella patens", "phosphoproteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000135
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["30695509"]
+["Physcomitrella patens", "phosphoproteomics"]
+
+
+**jpost********************
+JPST000136
+title:Physcomitrella patens, AR7
+  pi:Taishi Umezawa[AU] sm:Mariko Ito[AU]
+keywords:["Physcomitrella patens", "phosphoproteomics"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000136
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["30695509"]
+["Physcomitrella patens", "phosphoproteomics"]
+
+
+**jpost********************
+JPST000144
+title:Phosphoproteomics analysis of TCR signaling
+PXD000969  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
+keywords:["Mouse", "iTRAQ", "Phosphoproteome"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000144+OR+PXD000969
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28390868", "28267743", "28203736", "28024296", "27899654", "27856536", "27677939", "27600695", "27572825", "27227462", "27157913"]
+["Mouse", "iTRAQ", "Phosphoproteome"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/28024296
+["pi", "Mouse"]
+
+**jpost********************
+JPST000145
+title:Phosphoproteomics analysis of calcium signaling
+PXD000972  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
+keywords:["Mouse", "iTRAQ", "Phosphoproteome"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000145+OR+PXD000972
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28390868", "28267743", "28203736", "28024296", "27899654", "27856536", "27677939", "27600695", "27572825", "27227462", "27157913"]
+["Mouse", "iTRAQ", "Phosphoproteome"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/28024296
+["pi", "Mouse"]
+
+**jpost********************
+JPST000146
+title:Phosphoproteomics analysis of TCR signaling with inhibitors
+PXD000973  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
+keywords:["Mouse", "iTRAQ", "Phosphoproteome"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000146+OR+PXD000973
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28390868", "28267743", "28203736", "28024296", "27899654", "27856536", "27677939", "27600695", "27572825", "27227462", "27157913"]
+["Mouse", "iTRAQ", "Phosphoproteome"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/28024296
+["pi", "Mouse"]
+
+**jpost********************
+JPST000147
+title:Selection of MRM transition for metabolic enzymes expressed in mouse liver
+  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
+keywords:["Mouse", "liver", "MRM transition"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000147
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28390868", "28267743", "28203736", "28024296", "27899654", "27856536", "27677939", "27600695", "27572825", "27227462", "27157913"]
+["Mouse", "liver", "MRM transition"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/28390868
+["pi", "liver"]
+http://www.ncbi.nlm.nih.gov/pubmed/27572825
+["pi", "liver"]
+http://www.ncbi.nlm.nih.gov/pubmed/28024296
+["pi", "Mouse"]
+
+**jpost********************
+JPST000148
+title:Selection of MRM transition for metabolic enzymes expressed in mouse muscle
+  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
+keywords:["Mouse", "liver", "MRM transition"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000148
+
+
+**PubMed**
+2016-05-01 - 2017-07-01
+["28390868", "28267743", "28203736", "28024296", "27899654", "27856536", "27677939", "27600695", "27572825", "27227462", "27157913"]
+["Mouse", "liver", "MRM transition"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/28390868
+["pi", "liver"]
+http://www.ncbi.nlm.nih.gov/pubmed/27572825
+["pi", "liver"]
+http://www.ncbi.nlm.nih.gov/pubmed/28024296
+["pi", "Mouse"]
+
+**jpost********************
+JPST000159
+title:Zinc-responsive labeling in live cells for novel conditional proteomics
+PXD004698  pi:Itaru Hamachi[AU] sm:Hironori Achiwa[AU]
+keywords:["conditional proteomics", "chemical proteomics", "TMT"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000159+OR+PXD004698
+
+
+**PubMed**
+2016-06-01 - 2017-08-01
+["28387242", "28336066", "28252940", "28251566", "27617391", "27657873", "27560177", "27526031", "27442279", "27422255"]
+["conditional proteomics", "chemical proteomics", "TMT"]
+
+http://www.ncbi.nlm.nih.gov/pubmed/27617391
+["pi", "conditional proteomics"]
