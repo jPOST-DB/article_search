@@ -7,7 +7,6 @@ keywords:["HEK293T", "iodoTMT6plex", "DTT", "H2O2"]
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000036
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28048978", "27806916", "27350002"]
@@ -25,7 +24,6 @@ keywords:["monolithic silica column", "HILIC"]
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000068
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "28533600", "28391269"]
@@ -42,7 +40,6 @@ keywords:["phosphotyrosine", "Immunoprecipitation", "kinome"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000075+OR+PXD005061
-
 https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00576
 
 **PubMed**
@@ -66,7 +63,6 @@ keywords:monolith RP
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000077
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "28533600", "28391269"]
@@ -82,7 +78,6 @@ keywords:["E. coli", "N-terminal peptides", "N-terminomics"]
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000078
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "30695509"]
@@ -96,10 +91,7 @@ PXD000910  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
 keywords:["Mouse", "iTRAQ", "Phosphoproteome"]
 
 **google scholar**
-https://scholar.google.com/scholar?hl=ja&q=JPST000079+OR+PXD000910
-
-https://onlinelibrary.wiley.com/doi/pdf/10.1111/gtc.12406
-https://onlinelibrary.wiley.com/doi/abs/10.1111/gtc.12406
+https://scholar.google.com/scholar?hl=ja&q=JPST000079
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -117,7 +109,6 @@ keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-sho
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000081+OR+PXD004615
-
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
@@ -137,7 +128,6 @@ keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-sho
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000082+OR+PXD004616
-
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
@@ -157,7 +147,6 @@ keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-sho
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000083+OR+PXD004617
-
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
@@ -178,7 +167,6 @@ keywords:["FFPE slide", "formalin-fixed and paraffin-embedded", "phase-transfer 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000084+OR+PXD004604
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379"]
@@ -197,7 +185,6 @@ keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-sho
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000085+OR+PXD004618
-
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
@@ -217,7 +204,6 @@ keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-sho
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000086+OR+PXD004619
-
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
@@ -237,7 +223,6 @@ keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-sho
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000087+OR+PXD004620
-
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
@@ -257,7 +242,6 @@ keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-sho
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000088+OR+PXD004621
-
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
 https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
@@ -277,7 +261,10 @@ keywords:["shotgun proteomics", "monolithic silica column", "iPS cell", "one-sho
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000089+OR+PXD004622
-
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jhupo.org/jpdm/articles/DataDescriptor.2.pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_pdf
+https://www.jstage.jst.go.jp/article/jpdm/1/0/1_2019.0002/_article/-char/ja/
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -293,7 +280,6 @@ keywords:["phosphoproteomics", "HAMMOC", "TiO2", "HILIC"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000090
-
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -311,7 +297,6 @@ keywords:["white adipocyte", "phosphoproteomics"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000091
-
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -336,7 +321,6 @@ keywords:["phosphorylation", "stoichiometry", "motif-targeting"]
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000092
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28664172", "28600435", "28554772", "28526873", "28493537", "28445994", "28435121", "28418743", "28323416", "28290473", "28077733", "31725857", "27934968", "27841355", "27748121", "27728874", "27722232", "27567915", "27555448", "27452458", "27246681", "28031714"]
@@ -360,7 +344,6 @@ keywords:["EF1A1", "EF1A2", "interactomics", "TCTP"]
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000094
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["27899654", "28369119"]
@@ -378,7 +361,6 @@ keywords:["EF1A1", "EF1A2", "interactomics", "TCTP"]
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000095
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["27899654", "28369119"]
@@ -395,7 +377,6 @@ keywords:["Beige adipocyte", "phosphoproteomics"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000096
-
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -422,7 +403,6 @@ keywords:["Brown adipocyte", "phosphoproteomics"]
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000097
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28533219", "28481699", "28380374", "28246203", "28191637", "28051117", "27912085", "27758866", "27568548", "27251423", "27238638", "28031714"]
@@ -439,7 +419,6 @@ keywords:["bacteria", "E.coli", "phosphorylation"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000099
-
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -466,7 +445,6 @@ keywords:["bacteria", "E.coli", "phosphorylation"]
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000100
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473", "27528401", "27504668", "27436111", "27332127", "27301379", "28031714"]
@@ -491,7 +469,6 @@ keywords:["bacteria", "E.coli", "phosphorylation"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000101
-
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -518,7 +495,6 @@ keywords:["phosphoproteome", "mitosis"]
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000111
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28057767", "27504668", "27494278", "27231315"]
@@ -538,7 +514,6 @@ keywords:Lysine-less ubiquitin
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000115
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28390868", "28267743", "28203736", "28024296", "27899654", "27856536", "27677939", "27600695", "27572825", "27227462", "27157913"]
@@ -553,7 +528,6 @@ keywords:ATPome
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000117
-
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -582,7 +556,6 @@ keywords:ATPome-wide selectivity profiling
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000121
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28260742", "28211531", "28152594", "28103595", "27998981", "27883218", "27833131", "27761105", "27681590", "27436111", "27241769", "27222304", "27989673"]
@@ -609,7 +582,6 @@ keywords:ATPome-wide selectivity profiling
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000123
-
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -638,7 +610,6 @@ keywords:Stagetip fractionation
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000126
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28260742", "28211531", "28152594", "28103595", "27998981", "27883218", "27833131", "27761105", "27681590", "27436111", "27241769", "27222304", "27989673"]
@@ -666,7 +637,6 @@ keywords:Stagetip fractionation
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000129
 
-
 **PubMed**
 2016-05-01 - 2017-07-01
 ["28260742", "28211531", "28152594", "28103595", "27998981", "27883218", "27833131", "27761105", "27681590", "27436111", "27241769", "27222304", "27989673"]
@@ -693,7 +663,8 @@ keywords:["Physcomitrella patens", "phosphoproteomics"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000134
-
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/tpj.13891
+https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.13891
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -709,7 +680,8 @@ keywords:["Physcomitrella patens", "phosphoproteomics"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000135
-
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/tpj.13891
+https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.13891
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -725,7 +697,8 @@ keywords:["Physcomitrella patens", "phosphoproteomics"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000136
-
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/tpj.13891
+https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.13891
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -740,8 +713,7 @@ PXD000969  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
 keywords:["Mouse", "iTRAQ", "Phosphoproteome"]
 
 **google scholar**
-https://scholar.google.com/scholar?hl=ja&q=JPST000144+OR+PXD000969
-
+https://scholar.google.com/scholar?hl=ja&q=JPST000144
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -758,8 +730,7 @@ PXD000972  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
 keywords:["Mouse", "iTRAQ", "Phosphoproteome"]
 
 **google scholar**
-https://scholar.google.com/scholar?hl=ja&q=JPST000145+OR+PXD000972
-
+https://scholar.google.com/scholar?hl=ja&q=JPST000145
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -776,8 +747,7 @@ PXD000973  pi:Masaki Matsumoto[AU] sm:Masaki Matsumoto[AU]
 keywords:["Mouse", "iTRAQ", "Phosphoproteome"]
 
 **google scholar**
-https://scholar.google.com/scholar?hl=ja&q=JPST000146+OR+PXD000973
-
+https://scholar.google.com/scholar?hl=ja&q=JPST000146
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -795,7 +765,8 @@ keywords:["Mouse", "liver", "MRM transition"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000147
-
+https://www.biorxiv.org/content/biorxiv/early/2021/07/05/2021.06.21.449220.full.pdf
+https://www.biorxiv.org/content/10.1101/2021.06.21.449220.abstract
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -817,7 +788,8 @@ keywords:["Mouse", "liver", "MRM transition"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000148
-
+https://www.biorxiv.org/content/biorxiv/early/2021/07/05/2021.06.21.449220.full.pdf
+https://www.biorxiv.org/content/10.1101/2021.06.21.449220.abstract
 
 **PubMed**
 2016-05-01 - 2017-07-01
@@ -839,7 +811,7 @@ keywords:["conditional proteomics", "chemical proteomics", "TMT"]
 
 **google scholar**
 https://scholar.google.com/scholar?hl=ja&q=JPST000159+OR+PXD004698
-
+https://www.nature.com/articles/nmeth.3998
 
 **PubMed**
 2016-06-01 - 2017-08-01
@@ -855,6 +827,9 @@ title:Proteomic Comparison of the Secreted Factors of Mesenchymal Stem Cells fro
 PXD004633  pi:Kazuishi Kubota[AU] sm:Hidetaka Sakurai[AU]
 keywords:["BMSC", "DPSC", "ASC", "secretome"]
 
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000160+OR+PXD004633
+
 **PubMed**
 2016-06-01 - 2017-08-01
 ["28287856"]
@@ -869,6 +844,11 @@ title:Spermatophylax of Poecilimon ampliatus
 PXD005023  pi:Peter Jungblut[AU] sm:Peter Jungblut[AU]
 keywords:nuptial gift
 
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000189+OR+PXD005023
+https://pure.mpg.de/rest/items/item_2583444/component/file_2583443/content
+https://onlinelibrary.wiley.com/doi/abs/10.1111/phen.12218
+
 **PubMed**
 2016-08-01 - 2017-10-01
 []
@@ -880,6 +860,11 @@ JPST000190
 title:Ampulla of Poecilimon ampliatus 
 PXD005024  pi:Peter Jungblut[AU] sm:Peter Jungblut[AU]
 keywords:nuptial gift
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000190+OR+PXD005024
+https://pure.mpg.de/rest/items/item_2583444/component/file_2583443/content
+https://onlinelibrary.wiley.com/doi/abs/10.1111/phen.12218
 
 **PubMed**
 2016-08-01 - 2017-10-01
@@ -893,6 +878,11 @@ title:Spermatophylax of Poecilimon ampliatus liquid sample
 PXD005027  pi:Peter Jungblut[AU] sm:Peter Jungblut[AU]
 keywords:bush cricket spermatophore
 
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000191+OR+PXD005027
+https://pure.mpg.de/rest/items/item_2583444/component/file_2583443/content
+https://onlinelibrary.wiley.com/doi/abs/10.1111/phen.12218
+
 **PubMed**
 2016-08-01 - 2017-10-01
 []
@@ -904,6 +894,11 @@ JPST000193
 title:Ampulla of Poecilimon ampliatus liquid sample
 PXD005029  pi:Peter Jungblut[AU] sm:Peter Jungblut[AU]
 keywords:["spermatophore", "bush cricket", "LC-MS"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000193+OR+PXD005029
+https://pure.mpg.de/rest/items/item_2583444/component/file_2583443/content
+https://onlinelibrary.wiley.com/doi/abs/10.1111/phen.12218
 
 **PubMed**
 2016-08-01 - 2017-10-01
@@ -917,6 +912,11 @@ title:Ampulla of Poecilimon amplicata 2-DE spots 9,10,11
 PXD005030  pi:Peter Jungblut[AU] sm:Peter Jungblut[AU]
 keywords:["bushcricket", "spermatophore", "2-DE/MS"]
 
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000194+OR+PXD005030
+https://pure.mpg.de/rest/items/item_2583444/component/file_2583443/content
+https://onlinelibrary.wiley.com/doi/abs/10.1111/phen.12218
+
 **PubMed**
 2016-08-01 - 2017-10-01
 []
@@ -928,6 +928,12 @@ JPST000196
 title:Estimate phosphopeptide identification rate by tandem mass spectrometry
 PXD005079  pi:Dr. W. Andy Tao[AU] sm:Chuan-Chih Hsu[AU]
 keywords:["Phosphopeptide identification rate", "Mass spectrometry", "Kinase reaction"]
+
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000196+OR+PXD005079
+https://link.springer.com/article/10.1007/s13361-017-1603-5
+https://pubs.acs.org/doi/abs/10.1007/s13361-017-1603-5
+https://search.proquest.com/openview/1a28c90b7b24217034e73488f1d00f72/1?pq-origsite=gscholar&cbl=18750&diss=y
 
 **PubMed**
 2016-09-01 - 2017-11-01
@@ -943,6 +949,11 @@ title:HeLa standard shotgun DDA analysis using a two-meter C18 monolithic silica
 PXD005159  pi:Yasushi Ishihama[AU] sm:Saki Nambu[AU]
 keywords:["Monolithic silica column", "HeLa cell"]
 
+**google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000200+OR+PXD005159
+https://www.jstage.jst.go.jp/article/jpdm/2/0/2_2020.0004/_pdf
+https://www.jstage.jst.go.jp/article/jpdm/2/0/2_2020.0004/_article/-char/ja/
+
 **PubMed**
 2016-09-01 - 2017-11-01
 ["29058703", "28730488", "28300073", "28287266", "28084684", "27940637", "27924013", "27899654", "27617391", "27701473"]
@@ -956,6 +967,7 @@ PXD005163  pi:Takeshi Tomonaga[AU] sm:Mariko Ito[AU]
 keywords:["membrane protein", "breast cancer tissues", "shotgun proteomics"]
 
 **google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000201+OR+PXD005163
 
 **PubMed**
 2016-09-01 - 2017-11-01
@@ -970,6 +982,8 @@ PXD005175  pi:Takeshi Tomonaga[AU] sm:Mariko Ito[AU]
 keywords:["colorectal cancer", "FASP", "missing protein"]
 
 **google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000203+OR+PXD005175
+https://www.psidev.info/sites/default/files/2021-07/USI_FullSpecification_1.0.0_FINAL.pdf
 https://www.psidev.info/sites/default/files/2021-07/USI_FullSpecification_1.0.0_FINAL.pdf
 
 **PubMed**
@@ -991,6 +1005,7 @@ PXD005171  pi:Takeshi Tomonaga[AU] sm:Mariko Ito[AU]
 keywords:["colorectal cancer", "FASP", "IMAC", "missing protein", "phosphopeptide", "PhosphoSitePlus"]
 
 **google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000204+OR+PXD005171
 
 **PubMed**
 2016-09-01 - 2017-11-01
@@ -1013,6 +1028,7 @@ PXD005177  pi:Takeshi Tomonaga[AU] sm:Mariko Ito[AU]
 keywords:["colorectal cancer", "FASP", "missing protein"]
 
 **google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000205+OR+PXD005177
 
 **PubMed**
 2016-09-01 - 2017-11-01
@@ -1033,6 +1049,7 @@ PXD005174  pi:Takeshi Tomonaga[AU] sm:Mariko Ito[AU]
 keywords:["colorectal cancer", "FASP", "IMAC", "missing protein", "phosphopeptide", "PhosphoSitePlus"]
 
 **google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000206+OR+PXD005174
 
 **PubMed**
 2016-09-01 - 2017-11-01
@@ -1055,6 +1072,7 @@ PXD005176  pi:Takeshi Tomonaga[AU] sm:Mariko Ito[AU]
 keywords:["colorectal cancer", "FASP", "IMAC", "missing protein", "phosphopeptide", "PhosphoSitePlus"]
 
 **google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000207+OR+PXD005176
 
 **PubMed**
 2016-09-01 - 2017-11-01
@@ -1077,6 +1095,7 @@ PXD005172  pi:Takeshi Tomonaga[AU] sm:Mariko Ito[AU]
 keywords:["colorectal cancer", "FASP", "missing protein"]
 
 **google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000208+OR+PXD005172
 
 **PubMed**
 2016-09-01 - 2017-11-01
@@ -1097,6 +1116,7 @@ PXD005173  pi:Takeshi Tomonaga[AU] sm:Mariko Ito[AU]
 keywords:["colorectal cancer", "FASP", "missing protein"]
 
 **google scholar**
+https://scholar.google.com/scholar?hl=ja&q=JPST000210+OR+PXD005173
 
 **PubMed**
 2016-09-01 - 2017-11-01
