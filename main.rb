@@ -37,9 +37,6 @@ def google_scholar(jpst)
   anchor_pmc = []
   anchor_full = []
   anchor_else = []
-  # agent = Mechanize.new
-  # agent.user_agent_alias = 'Windows Mozilla'
-  # agent.cookie_jar.clear!
   page = @agent.get(url)
   page.search('a').each do |anchor|
     next if anchor[:href].include?('javascript') || anchor[:href].include?('google') || anchor[:href][0] == '/' || anchor[:href].include?('https://scholar')
@@ -93,7 +90,7 @@ def get_jpost(id)
   elsif @keywords.include?(',')
     @keywords = @keywords.split(',').map{ _1.strip }
   else
-    @keywords = @keywords.strip
+    @keywords = @keywords.split().map{ _1.strip }
   end
   s = page.search('Contact')
   @pi = s.search('PrincipalInvestigator').to_s.gsub('<PrincipalInvestigator>', '').gsub('</PrincipalInvestigator>', '') + '[AU]'
