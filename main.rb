@@ -93,9 +93,19 @@ def get_jpost(id)
     @keywords = @keywords.split().map{ _1.strip }
   end
   s = page.search('Contact')
-  @pi = s.search('PrincipalInvestigator').to_s.gsub('<PrincipalInvestigator>', '').gsub('</PrincipalInvestigator>', '') + '[AU]'
-  @sm = s.search('Name').to_s.gsub('<Name>', '').gsub('</Name>', '') + '[AU]'
-
+  @pi = s.search('PrincipalInvestigator').to_s.gsub('<PrincipalInvestigator>', '').gsub('</PrincipalInvestigator>', '')
+  if @pi.nil?.!
+    @pi.gsub!(/[^\w]*(Dr|MD|PhD|Prof)[^\w]*/, '')
+    @pi += '[AU]'
+  end
+  @pi = '' if @pi.upcase == @pi.downcase
+  @sm = s.search('Name').to_s.gsub('<Name>', '').gsub('</Name>', '')
+  if @sm.nil?.!
+    @sm.gsub!(/[^\w]*(Dr|MD|PhD|Prof)[^\w]*/, '')
+    @sm += '[AU]'  
+  end
+  @sm = '' if @sm.gsub(/AU/, '').upcase == @sm.gsub(/AU/, '').downcase
+  
   puts "#{@pxid} #{@createDate} pi:#{@pi} sm:#{@sm}"
   puts "keywords:#{@keywords}"
   puts
@@ -117,12 +127,14 @@ def main()
     'mindate' => sdate.prev_month.strftime("%Y/%m/%d"),
     'retmax' => 100
   }
-  Bio::PubMed.esearch(@pi, options).each do |x|
-    ids[x] += 1
+  if @pi == ''
+    Bio::PubMed.esearch(@pi, options).each do |x|
+      ids[x] += 1
+    end
+    sleep 1
   end
-  sleep 1
   
-  if @pi != @sm
+  if @sm == '' || @pi != @sm
     Bio::PubMed.esearch(@sm, options).each do |x|
       ids[x] += 2
     end
@@ -131,6 +143,7 @@ def main()
 
   puts "**PubMed**"
   puts "#{sdate.prev_month} - #{sdate.next_month(13)}"
+  puts "Over 100 Hits" if ids.keys.size >= 100
   puts "#{ids.keys}"
   puts "#{@keywords}"
   puts
