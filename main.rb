@@ -82,7 +82,7 @@ def get_jpost(id)
 
   puts "title:#{page.search('Project').search('Title').to_s.gsub('<Title>', '').gsub('</Title>', '')}"
   s = page.search('Project').to_s
-  @pxid = s[s.index('PXD'), 9]
+  @pxid = s[s.index('PXD'), 9] if s.index('PXD')
   @createdDate = s[s.index('createdDate') + 13, 10]
   @keywords = page.search('Keywords').to_s.gsub('<Keywords>', '').gsub('</Keywords>', '')
   if @keywords.include?(';')
@@ -147,4 +147,4 @@ def main()
   end  
 end
 
-main
+main()
