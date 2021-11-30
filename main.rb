@@ -127,14 +127,14 @@ def main()
     'mindate' => sdate.prev_month.strftime("%Y/%m/%d"),
     'retmax' => 100
   }
-  if @pi == ''
+  if @pi != ''
     Bio::PubMed.esearch(@pi, options).each do |x|
       ids[x] += 1
     end
     sleep 1
   end
   
-  if @sm == '' || @pi != @sm
+  if @sm != '' && @pi != @sm
     Bio::PubMed.esearch(@sm, options).each do |x|
       ids[x] += 2
     end
