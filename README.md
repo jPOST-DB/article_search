@@ -53,4 +53,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/32660330
 一件ずつ検索を行います。
 ## main_all.rb
 `jpostid.txt`に記載された`jPOST id`について連続して検索を行い(件数が多いとgoogleにはじかれます)、`result.txt`に検索結果を出力します。
+## web版
+動作確認としてのデモ版になります。
+https://sleepy-caverns-65074.herokuapp.com
 
