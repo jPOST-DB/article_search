@@ -56,4 +56,4 @@ http://www.ncbi.nlm.nih.gov/pubmed/32660330
 ## web版
 動作確認としてのデモ版になります。
 https://sleepy-caverns-65074.herokuapp.com
-
+(herokuは実行時間30sオーバーでエラー発生)
